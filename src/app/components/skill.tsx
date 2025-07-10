@@ -1,4 +1,3 @@
-import { BiCategory } from "react-icons/bi";
 import { BsDot } from "react-icons/bs";
 
 export default function Skills(){
